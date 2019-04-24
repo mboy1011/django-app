@@ -23,5 +23,8 @@
 > * Password (again): <your password>
 6. Migrate your app with all the configuration you created: <code>python src/manage.py migrate</code>
 7. Run the django-app: <code>pyton src/manage.py runserver</code>
+## Django Documentation
+<p>You can visit the official documentation of django: <a href="https://docs.djangoproject.com/en/2.2/">Docs</a></p>
+
 ## 
 [![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)](https://github.com/mboy1011/django-app.git)
