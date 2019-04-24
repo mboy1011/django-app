@@ -3,5 +3,19 @@
 {%block title%}About{%endblock%}
 {%block body%}
 <h1>About Page!</h1>
+<p>{{ my_text }}, {{ my_number }}</p>
+
+<ol>
+    {% for abc in my_list%}
+        {% if abc == 312 %}
+            <li>{{forloop.counter}}. {{abc|add:22}}</li>
+        {% elif abc == "Abc" %}
+            <li>This is not.</li>
+        {% else %}
+            <li>{{forloop.counter}}. {{abc}}</li>
+        {% endif %}
+    {%endfor%}
+</ol>
+
 <p>This is a template.</p>
 {%endblock%}
