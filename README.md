@@ -5,6 +5,7 @@
 > * Basic knowledge to Programming (Python).
 > * Basic knowledge to RDBMS or SQL Database (MySQL,SQLite)
 > * Basic knowledge to Web (HTML, JS, CSS)
+> * Knowledgeable enough about MVC(Model, View, Controller)
 
 ## Requirements:
 [![Python3](https://www.python.org/static/img/python-logo.png)](https://www.python.org/downloads/)
