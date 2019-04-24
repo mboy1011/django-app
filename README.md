@@ -16,5 +16,6 @@
 2. Install Python3 requirements: <code>pip3 install -r requirements</code>
 3. Create a Python3 environment: <code>virtualenv -p Python3 .</code>
 4. Activate the environment: <code>source bin/active</code>
+5. Run the django-app: <code>pyton src/manage.py runserver</code>
 ## 
 [![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)](https://github.com/mboy1011/django-app.git)
